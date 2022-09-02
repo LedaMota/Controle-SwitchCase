@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Controle\bin\Debug\Controle.exe.config
+C:\WorkspaceLediane\Controle\bin\Debug\Controle.exe
+C:\WorkspaceLediane\Controle\bin\Debug\Controle.pdb
+C:\WorkspaceLediane\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Controle\obj\Debug\Controle.exe
+C:\WorkspaceLediane\Controle\obj\Debug\Controle.pdb
